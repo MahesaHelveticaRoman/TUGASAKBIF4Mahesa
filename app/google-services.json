@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1014050432690",
+    "firebase_url": "https://uasmahesa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uasmahesa",
+    "storage_bucket": "uasmahesa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014050432690:android:47331b177fc0980a7a0bab",
+        "android_client_info": {
+          "package_name": "com.example.tugasuasmahesaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014050432690-3ghrfm73an1fpnuesn3l9mherlmi5t0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA17euv2tAf2yNI0GakSfgjAJ3vlHXNQ5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014050432690-3ghrfm73an1fpnuesn3l9mherlmi5t0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
